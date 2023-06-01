@@ -1,6 +1,6 @@
 # OIBSIP
 
-#Oasis InfoByte Internship
+# Oasis InfoByte Internship
 Web Development Internship Projects
 This repository contains the code for the projects completed during the Web Development Internship at Oasis InfoByte. The projects are:
 
